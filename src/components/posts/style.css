@@ -1,0 +1,11 @@
+.uiCardStyle {
+    margin: auto;
+    width: 100%;
+}
+
+.textLength {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+  }
